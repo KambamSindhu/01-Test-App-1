@@ -12,4 +12,5 @@ int b=102
 String name="Ashok"
 String clg="jntu";
 byte bb=10;
+int adff=100;
 
