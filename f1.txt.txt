@@ -8,4 +8,4 @@ This is f3 file
 //bug fix 101
 int a=101
 int b=102
->>>>>>> Stashed changes
+String name="Ashok"
